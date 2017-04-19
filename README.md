@@ -8,6 +8,7 @@ This generator creates a REST API Microservice in Swift 3.0 using the IBM Kitura
 For information on Minke please see the documentation [http://nicholasjackson.github.io/minke/](http://nicholasjackson.github.io/minke/).
 
 ## Available variables for templates (erb style)
+
 | Variable                | Description                            |
 | ----------------------- | -------------------------------------- |
 | <%= application_name %> | The name of the application executable |
